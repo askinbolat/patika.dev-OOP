@@ -12,3 +12,6 @@ Bir hayvanat bahçesindeki hayvanlar hakkındaki bilgileri takip etmek için bir
     Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.
 
 Polimorfizm modelini kullanarak, yukarıda açıklanan durumu ele almak için bir sınıf diyagramı tasarlayın.
+
+![zoouml](https://github.com/askinbolat/patika.dev-OOP/assets/107562943/dd20b632-99e0-40fa-8127-e5ecd569d18f)
+
